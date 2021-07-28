@@ -1,1 +1,1 @@
-import pygame
+import pygames
